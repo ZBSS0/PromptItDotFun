@@ -11,7 +11,6 @@
 ##
 CA: soon
 
-http://x.com/visualizersh
 ## 
 
 ## Running locally
